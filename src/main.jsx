@@ -113,7 +113,7 @@ function App() {
           <strong>ningning.kr</strong>
         </a>
         <div className="topbar-divider" />
-        <span className="section-title">Thread 1</span>
+        <span className="section-title">아이디어 수집</span>
         <nav className="top-actions" aria-label="보조 메뉴">
           <button type="button" aria-label="알림"><Bell size={18} /><span>알림</span></button>
           <button type="button" aria-label="도움말"><HelpCircle size={18} /><span>도움말</span></button>
@@ -152,7 +152,7 @@ function App() {
           <section className="hero-row" aria-label="스레드 개요">
             <div>
               <p className="eyebrow"><Sparkles size={16} /> ACTIVE THREAD</p>
-              <h1>01 유튜브 아이디어 수집 자동화</h1>
+              <h1>유튜브 아이디어 수집 자동화</h1>
               <p className="lede">YouTube 채널에서 사업화 가능한 아이디어를 수집하고, 후보 리포트와 승인 흐름으로 관리합니다.</p>
             </div>
             <div className="hero-actions">
